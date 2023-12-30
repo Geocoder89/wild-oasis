@@ -221,7 +221,6 @@ const NewBookingForm = ({onCloseModal}) => {
     </Form>
   )
 }
-
 export default NewBookingForm
 
 

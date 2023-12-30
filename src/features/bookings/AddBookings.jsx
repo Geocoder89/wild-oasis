@@ -1,6 +1,6 @@
 import Button from '../../ui/Button'
 import Modal from '../../ui/Modal'
-import NewBookingForm from './newBookingForm'
+import NewBookingForm from './NewBookingForm'
 
 
 const AddBooking = ()=> {
